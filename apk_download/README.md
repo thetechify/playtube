@@ -1,5 +1,3 @@
-![Desktop Cover](https://i.imgur.com/94mS5F4.jpg)
-
 <a href="https://playittube.thetechify.com"><img src="https://i.imgur.com/KSLld0Q.png" align="left" height="80" width="80" ></a>
 # PlayItTube
 - **PlayItTube** is a new beautiful and fast application that supports YouTube audio and video downloading at any quality, 
